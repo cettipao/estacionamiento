@@ -1,0 +1,1 @@
+{"Username": "its", "Dinero": "10", "Password": "4d3b05f4aacf2891b39fef781906bf13f168308a159880908bd7dd17", "Webcam": "0", "Size": "2"}

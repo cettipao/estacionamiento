@@ -1,0 +1,16 @@
+Para ejecutar correctamente se necesita crear un enviroment
+
+mkvirtualenv estacionamiento
+sudo apt install python-pip
+sudo apt-get install python-dev
+pip install opencv-python ----
+pip install qrcode
+pip install pillow
+pip install zbar
+
+
+acceder al enviromnt= workon estacionamiento
+pip freeze > requirements.txt
+
+usuario: its
+password: villada
